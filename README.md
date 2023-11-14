@@ -1,4 +1,4 @@
-# hello-world
+# Vueで時計アプリを作りました。
 
 ## Project setup
 ```
@@ -22,4 +22,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# Vueで時計アプリを作りました。
